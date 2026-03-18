@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+scipy
+soundfile
+sqlalchemy
+psycopg2-binary
+librosa
+torch
+fpdf2
+passlib[bcrypt]
+cryptography
+python-jose[cryptography]
+python-dotenv
+alembic
