@@ -1,0 +1,11 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+python-multipart==0.0.9
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.26.4
+scipy==1.13.0
+scikit-learn==1.4.2
+cryptography==42.0.5
+reportlab==4.1.0
+sqlalchemy==2.0.29
